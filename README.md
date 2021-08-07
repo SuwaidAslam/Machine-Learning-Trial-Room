@@ -13,9 +13,9 @@ So if you're a data science practitioner you should definitely try it out :wink:
 # How does it work ?
 
 1. 🗂️ You upload the preprocessed **dataset**, means dataset must be numerical and does not have NULL values.
-2. ⚙️ You select X features and Y target label for either Regression Models or Classification Models.
-3. 🤖 You select a **model** set its hyper-parameters. You can pick a model from many different models.
-4. 📊 Basic Data analysis or Data Exploration.
+2. 📊 Basic Data analysis or Data Exploration.
+3. ⚙️ You select X features and Y target label for either Regression Models or Classification Models.
+4. 🤖 You select a **model** set its hyper-parameters. You can pick a model from many different models.
 5. 📉 The app automatically displays the following results:
    - For Classification Part
       - Train Accuracy
