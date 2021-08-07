@@ -1,4 +1,4 @@
-# Machine-Learning-Trial-Room
+# Machine Learning Trial Room
 An application to try different machine learning models on preprocessed data directly from the browser.
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
