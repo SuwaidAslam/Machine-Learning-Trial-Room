@@ -57,6 +57,17 @@ $ pip install -r requirements.txt
 ```
 $ streamlit run app.py
 ```
+## Contributions are welcome!
+
+Feel free to open a pull request or an issue if you're thinking of a feature you'd like to see in the app.
+
+Off the top of my head, I can think of:
+
+- [ ] Adding Preprocessing Part in the app, so we do not have to preprocess our dataset outside the app.
+- [ ] Adding  feature engineering part
+
+But if you've got other ideas, I will be happy to discuss them with you.
+
 ## Contact
 
 For any feedback or queries, please reach out to [suwaidaslam@gmail.com](suwaidaslam@gmail.com).
