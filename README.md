@@ -1,3 +1,4 @@
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/suwaidaslam/machine-learning-trial-room/main/app.py)
 # Machine Learning Trial Room
 An application to try different machine learning models on preprocessed data directly from the browser.
 
