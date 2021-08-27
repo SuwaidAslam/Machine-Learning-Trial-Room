@@ -71,4 +71,4 @@ But if you've got other ideas, I will be happy to discuss them with you.
 
 ## Contact
 
-For any feedback or queries, please reach out to [suwaidaslam@gmail.com](suwaidaslam@gmail.com).
+For any feedback or queries, please reach out to me at [suwaidaslam@gmail.com](suwaidaslam@gmail.com).
