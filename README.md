@@ -5,6 +5,13 @@ An application to try different machine learning models on preprocessed data dir
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![pythonbadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
+# Demo
+
+
+https://user-images.githubusercontent.com/45914161/132569404-64c99027-fa68-4b2a-9a51-82c7ac0d73bf.mp4
+
+
+
 # 📱 ML Trial Room 📉
 ## Introduction 
  ML Trial Room is a **streamlit** application that allows you to play with machine learning models from your browser.
